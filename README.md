@@ -1,4 +1,4 @@
 # Project for Portfolio
 
-[Demo](https://dakasimov.github.io/React_Shop/).
+[Demo](https://dakasimov.github.io/React_Shop/)
 
